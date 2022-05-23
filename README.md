@@ -9,4 +9,4 @@ A Notes Taking Website with functionalities like
 
 ## Deployed Website
 
-[![Run On Heroku](https://img.shields.io/badge/-Run%20on%20Heroku-05122A?style=flat&logo=heroku)](https://keep-notes-1.herokuapp.com/)
+[![Run On Netlify](https://img.shields.io/badge/-Run%20on%20Netlify-05122A?style=flat&logo=netlify)](https://guileless-kulfi-31136e.netlify.app/)
